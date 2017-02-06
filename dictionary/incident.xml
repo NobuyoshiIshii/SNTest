@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="email_client=true,hasWorkflow=true,live_feed=true" audit="true" extends="task" label="Incident" max_length="40" name="incident" sizeclass="73" text_index="true" type="collection">
+        <element label="Test1" max_length="100" name="x_10845_test201702_test1" type="string"/>
+    </element>
+</database>
